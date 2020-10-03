@@ -1,0 +1,106 @@
+.titulo{
+position: absolute;
+top: 4%;
+left: 2%;
+background: #F9A8D4;
+width: 30%;
+height: 11%;
+font-size: 50px;
+font-family: Vladimir Script;
+color: white;
+}
+
+.suma{
+position: absolute;
+top: 20%;
+left: 7%;
+background: #80FAE9;
+width: 20%;
+height: 11%;
+font-size: 50px;
+font-family: Rockwell;
+}
+.suma2{
+display: block;
+position: absolute;
+top: 17%;
+left: 29%;
+background: red;
+width: 70%;
+height: 75%;
+font-size: 50px;
+font-family: Rockwell;
+background: url(sum1.png);
+}
+
+.resta{
+position: absolute;
+top: 35%;
+left: 7%;
+background: #80FAE9;
+width: 20%;
+height: 11%;
+font-size: 50px;
+font-family: Rockwell;
+}
+.resta2{
+display: block;
+position: absolute;
+top: 17%;
+left: 29%;
+background: purple;
+width: 70%;
+height: 70%;
+font-size: 50px;
+font-family: Rockwell;
+background: url(rest1.png);
+}
+
+.ejercicio{
+position: absolute;
+top: 50%;
+left: 7%;
+background: #9A99FC;
+width: 20%;
+height: 11%;
+font-size: 50px;
+font-family: Rockwell;
+}
+.ejercicio2{
+display: block;
+position: absolute;
+top: 15%;
+left: 40%;
+background: #CAA3FC;
+width: 50%;
+height: 50%;
+font-size: 50px;
+font-family: Rockwell;
+}
+.hijo4{
+display: none;
+}
+.hijo44{
+display: block;
+position: relative;
+top: 10%;
+left: 0%;
+background: #CAA3FC;
+width: 100%;
+font-size: 50px;
+font-family: Rockwell;
+}
+.total{
+display: none;
+}
+.total2{
+display: block;
+position: relative;
+top: 40%;
+left: 0%;
+background: #FCA3E1;
+width: 50%;
+height: 20%;
+font-size: 30px;
+font-family: Rockwell;
+}
